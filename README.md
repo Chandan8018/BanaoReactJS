@@ -32,14 +32,8 @@ This application is built with modern web technologies to ensure a responsive an
     ```
 
 ## Usage
-1. **Start the backend server**:
+1. **Start the frontend server**:
     ```bash
-    npm run dev
-    ```
-
-2. **Start the frontend server**:
-    ```bash
-    cd frontend
     npm run dev
     ```
 
@@ -48,7 +42,7 @@ This application is built with modern web technologies to ensure a responsive an
 
 ```sh
   
-frontend
+Banao-ReactJS
 ├── public
 ├── src
 |   ├── components
@@ -74,13 +68,17 @@ frontend
 ```
 ## Demo
 
+- Home Page
 ![Home Page](./public/home.png)
 ---
+- Join In Page
 ![Join IN](./public/joinin.png)
 ---
+- Sign In Page
 ![Sign In](./public/signin.png)
 ---
-![Update Profile](./public/addown.png)
+- Add Page
+![Add](./public/addown.png)
 ---
 
 
